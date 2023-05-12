@@ -1,0 +1,48 @@
+body{
+    padding: 0;
+    font-family: "open sans";
+    font-size: 20px;
+}
+
+.logo{
+
+}
+
+.feat{
+   width: 80%; 
+   height: 30px;
+}
+
+.feature{
+    background-color: #fafafa;
+}
+
+.start{
+    color: #0087db;
+    text-align: center;
+}
+
+.card-body{
+    background-color: #edf0f5;
+    padding-left: 30px;
+}
+
+.reach{
+    display: flex;
+    padding-left: 70px;
+}
+
+.plug{
+    text-align: center;
+    
+}
+
+.newslet{
+    padding-top: 100px;
+}
+
+/* .feature-img{
+    width: 40px;
+    height: 5vh;
+    display: flex;
+} */
